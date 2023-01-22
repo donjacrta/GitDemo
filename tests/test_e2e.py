@@ -42,3 +42,4 @@ class TestOne(BaseClass):
         log.info("Text received from application is "+textMatch)
 
         assert ("Success! Thaksssnk you!" in textMatch)
+#ovo je dodatak
