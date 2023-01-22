@@ -41,5 +41,6 @@ class TestOne(BaseClass):
         textMatch = self.driver.find_element_by_css_selector("[class*='alert-success']").text
         log.info("Text received from application is "+textMatch)
 
-        assert ("Success! Thaksssnk you!" in textMatch)
+        assert ("Success! Thaksnk you!" in textMatch)
 #ovo je dodatak
+#Imamo jo[ jedan dodatak
