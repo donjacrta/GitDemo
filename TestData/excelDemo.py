@@ -24,6 +24,7 @@ for i in range(1,sheet.max_row+1):  # to get rows
 print(Dict)
 
 #jo[ jedan
+# i jo[ dva
 
 
 

@@ -45,3 +45,4 @@ class TestOne(BaseClass):
 #ovo je dodatak
 #Imamo jo[ jedan dodatak
 #imamo jo[ jedan dodatak
+# i jos maklo
