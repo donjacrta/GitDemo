@@ -27,6 +27,10 @@ print(Dict)
 # i jo[ dva
 
 
+#I Evo ga jos jedan za komit
+
+
+
 
 
 

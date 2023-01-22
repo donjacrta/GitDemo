@@ -18,3 +18,4 @@ class HomePageData:
                     Dict[sheet.cell(row=1, column=j).value] = sheet.cell(row=i, column=j).value
         return[Dict]
 
+#i ovdje jedan
