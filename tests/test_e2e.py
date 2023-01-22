@@ -44,3 +44,4 @@ class TestOne(BaseClass):
         assert ("Success! Thaksnk you!" in textMatch)
 #ovo je dodatak
 #Imamo jo[ jedan dodatak
+#imamo jo[ jedan dodatak
